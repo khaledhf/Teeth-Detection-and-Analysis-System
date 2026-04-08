@@ -2,19 +2,6 @@
 
 An intelligent web application that leverages computer vision and machine learning to provide automated dental image analysis and detection. Built with Django, React, and OpenCV.
 
-![JUTeeth](./gfg_dummy_pic.png)
-
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ## ✨ Features
 
